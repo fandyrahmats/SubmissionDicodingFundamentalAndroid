@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="username">Username</string>
+    <string name="user_image_profile">user image profile</string>
+    <string name="backdrop_image">backdrop image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_tab_followers">Followers</string>
+    <string name="title_tab_following">Following</string>
+    <string name="search_not_found">Search Not Found</string>
+    <string name="did_not_find_the_username">did not find the username</string>
+    <string name="search_not_found_icon">search not found icon</string>
+    <string name="notification_title">Reminder App Github</string>
+    <string name="notification_message">Wohooo, it\'s time to open your apps!</string>
+    <string name="active">Active</string>
+    <string name="title_setting_reminder">Turn on notifications</string>
+    <string name="settings">Settings</string>
+    <string name="reminder">Reminder</string>
+    <string name="alarm_canceled">Reminder is canceled</string>
+    <string name="alarm_set_up">Reminder alarm set up</string>
+    <string name="deleted_favorite">Deleted from favorite</string>
+    <string name="added_favorite">Added to favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="mode">mode</string>
+    <string name="mode_title">Turn On Dark Mode</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

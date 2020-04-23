@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:iconSpaceReserved="false">
+
+    <CheckBoxPreference android:defaultValue="false"
+        android:key="@string/reminder"
+        android:title="@string/title_setting_reminder"
+        app:iconSpaceReserved="false" />
+
+    <CheckBoxPreference android:defaultValue="false"
+        android:key="@string/mode"
+        android:title="@string/mode_title"
+        app:iconSpaceReserved="false" />
+
+</PreferenceScreen>
